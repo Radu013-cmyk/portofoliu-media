@@ -1,10 +1,10 @@
-# Portofoliu –Radu013-cmyk
+ # Portofoliu –Radu013-cmyk
 Teme și proiecte, clasa a XII-a, Producție media,
 Liceul Tehnologic „Grigore C. Moisil” Buzău.
 
 Site: <https://Radu013-cmyk.github.io/portofoliu-media/>
 
-## Lucrări
+ ## Lucrări
 
 | Nr. | Lucrarea | Folder |
 |:---:|----------|--------|
